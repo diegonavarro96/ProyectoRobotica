@@ -1,0 +1,9 @@
+div{
+    width: 30%;
+    float: left;
+    margin:1.66%;
+}
+body{
+
+    background-image: linear-gradient(315deg, #232526 0%, #414345 74%);
+}
